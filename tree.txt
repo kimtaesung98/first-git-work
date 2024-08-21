@@ -1,4 +1,6 @@
-#include<iostrea>
-int main(){
-	return 0;
-}
+vi vim editor commend
+
+:wq save and quit
+:w save
+:q do not save file and quit
+:q! quit
